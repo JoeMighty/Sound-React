@@ -2,6 +2,8 @@
 //www.jobinbennykutty.com
 //Creative Commons Attribution-NonCommercial 4.0 International Public License
 
+//You will need Minim - http://code.compartmental.net/minim/
+
 import ddf.minim.*;
 Minim minim;
 
